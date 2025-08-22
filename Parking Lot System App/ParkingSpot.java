@@ -1,3 +1,6 @@
+// Vijay Venkatesan
+// Aug 22, 2025
+
 public class ParkingSpot {
     private boolean isOccupied;
     private VehicleType designatedVehicleType;
